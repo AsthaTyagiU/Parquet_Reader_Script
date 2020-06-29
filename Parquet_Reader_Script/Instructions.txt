@@ -3,7 +3,7 @@ Assuming user is using Linux system. (I used Ubuntu)
 1. Download and unzip the folder: 'Parquet_Reader_Script' to your home directory
 2. cd Parquet_Reader_Script
 3. Run prestep_installer.sh as a pre-step (optional).It installs: Python, panda and aws cli. You can skip this step if its already installed.
-4. Run main.sh 
+4. Run ./main.sh 
 
 
 Description:

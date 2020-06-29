@@ -33,6 +33,7 @@ If time has allowed, would have loved to add below features:
 - Try and catch method for error handling
 - retry if ssh to EC2 instance fails
 - check if EC2 instacne is up before ssh
+- keeping the files which won't require any user attaention (like policy document, etc.) in seprate folder.
 
 Possible errors and resolution:
 - Error: [Errno 13] Permission denied: '/home/xxxx/.aws/credentials'.

@@ -1,0 +1,12 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [{
+        "Effect": "Allow",
+        "Action": [
+            "iam:GetRole",
+            "iam:PassRole"
+        ],
+        "Resource": "arn:aws:iam::var_account_id:role/S3-ReadOnly-Role"
+    }]
+}
+
